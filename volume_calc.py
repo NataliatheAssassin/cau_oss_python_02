@@ -14,5 +14,3 @@ volume = x * z * y
 print("박스의 부피는", end="\n")
 print(round(volume, 1), end="")
 print("입니다.")
-
-print("I'm so happy!!!")
